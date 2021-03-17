@@ -6,6 +6,4 @@ Through this you can easily hop into their profile to have a look
 
 Made with Vanilla Js🐱‍👤
 
-##Link
-
-https://modest-kare-27e73c.netlify.app/
+Link-1(live)  https://modest-kare-27e73c.netlify.app/
